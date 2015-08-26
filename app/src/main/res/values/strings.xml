@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SQLiteHelper</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_tarefa">TarefaActivity</string>
+    <string name="action_nova">Nova</string>
+    <string name="action_salvar">Salvar</string>
+    <string name="action_delete">Deletar</string>
+</resources>
